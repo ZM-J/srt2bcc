@@ -1,0 +1,473 @@
+1
+00:00:00,000 --> 00:00:00,500
+Uno
+
+2
+00:00:00,500 --> 00:00:01,000
+Dos
+
+3
+00:00:01,000 --> 00:00:01,500
+Tres
+
+4
+00:00:10,160 --> 00:00:10,660
+¿Qué onda pumpers?
+
+5
+00:00:10,660 --> 00:00:11,540
+Habla OscarJark
+
+6
+00:00:11,720 --> 00:00:12,540
+Y esta es la continuación
+
+7
+00:00:12,600 --> 00:00:14,320
+del video de la historia de la pump
+
+8
+00:00:14,640 --> 00:00:16,359
+Si no lo han visto aquó lo dejo
+
+9
+00:00:16,359 --> 00:00:17,299
+para que no pierdan la secuencia
+
+10
+00:00:17,300 --> 00:00:19,300
+Y si lo recuerdan pues nos quedamos
+
+11
+00:00:19,300 --> 00:00:20,260
+en la OBG
+
+12
+00:00:20,580 --> 00:00:22,380
+Bueno, después de ella en Septiembre del 2000
+
+13
+00:00:22,380 --> 00:00:24,720
+sale en Corea la Pump it up
+
+14
+00:00:24,720 --> 00:00:26,300
+"The OBG season evolution"
+
+15
+00:00:26,520 --> 00:00:28,380
+La cual originalmente se llamaría
+
+16
+00:00:28,380 --> 00:00:28,880
+summer edition
+
+17
+00:00:29,200 --> 00:00:30,380
+Pero pues, debido a retrasos
+
+18
+00:00:30,380 --> 00:00:31,830
+le cambiaron el nombre
+
+19
+00:00:31,830 --> 00:00:33,500
+porque ya ni siquiera iba a ser verano
+
+20
+00:00:34,360 --> 00:00:36,300
+Era casi la misma interfaz de la OBG
+
+21
+00:00:36,300 --> 00:00:38,620
+en esta se agregaron 14 canciones y un remix
+
+22
+00:00:39,140 --> 00:00:41,440
+lo cool es que todas contaban con un crazy
+
+23
+00:00:43,520 --> 00:00:44,740
+de aquí surgieron joyas como:
+
+24
+00:00:45,220 --> 00:00:47,440
+Solitary, Run to you, Mr. Larpus
+
+25
+00:00:47,880 --> 00:00:49,880
+que fue la canción con mayor dificultad
+
+26
+00:00:49,960 --> 00:00:51,760
+debido a que ya incluía secuencias
+
+27
+00:00:51,780 --> 00:00:53,900
+tipo escalera, vueltas y cambios
+
+28
+00:00:54,020 --> 00:00:55,380
+novedosos para la época.
+
+29
+00:00:56,280 --> 00:00:58,280
+En diciembre del 2000 sale a la luz
+
+30
+00:00:58,290 --> 00:00:59,590
+la PIU perfect collection
+
+31
+00:01:00,060 --> 00:01:01,280
+Llegados a éste punto la calidad de
+
+32
+00:01:01,280 --> 00:01:03,240
+los audios ya ha mejorado demasiado
+
+33
+00:01:03,240 --> 00:01:05,240
+en comparación a las entregas anteriores
+
+34
+00:01:06,880 --> 00:01:08,940
+Ésta versión además de contener las canciones
+
+35
+00:01:09,080 --> 00:01:10,760
+de los discos anteriores
+
+36
+00:01:10,760 --> 00:01:11,840
+nos ofreció la canción
+
+37
+00:01:11,840 --> 00:01:13,040
+más emblematica y conocida
+
+38
+00:01:13,180 --> 00:01:14,880
+por la gente que no juega Pump
+
+39
+00:01:15,100 --> 00:01:16,500
+me refiero a Beethoven virus o
+
+40
+00:01:16,500 --> 00:01:18,640
+"Beethoven virus" como le decimos por aquí
+
+41
+00:01:20,480 --> 00:01:22,480
+Banya y los Taiji Boys fueron los artistas
+
+42
+00:01:22,480 --> 00:01:23,540
+más sobresalientes
+
+43
+00:01:24,580 --> 00:01:26,400
+y el premio para las canciones más sobresalientes
+
+44
+00:01:26,400 --> 00:01:30,420
+fue para Hayuga, I will accept you, Rolling christmas,
+
+45
+00:01:30,420 --> 00:01:34,020
+space fantasy, unforgettable memories y slam
+
+46
+00:01:34,020 --> 00:01:36,020
+siendo estas 2 últimas las más difíciles.
+
+47
+00:01:36,020 --> 00:01:37,540
+de las recién agregadas.
+
+48
+00:01:38,640 --> 00:01:40,660
+Mmm, no todo fue miel sobre hojuelas
+
+49
+00:01:40,660 --> 00:01:43,020
+porque la navegación era poco intuitiva
+
+50
+00:01:43,020 --> 00:01:44,460
+y amigable para los occidentales
+
+51
+00:01:44,640 --> 00:01:45,820
+pues todo estaba en coreano.
+
+52
+00:01:48,840 --> 00:01:50,860
+En los discos las canciones van enumeradas
+
+53
+00:01:50,860 --> 00:01:52,980
+de acuerdo  a la máquina en la que salieron, por ejemplo
+
+54
+00:01:53,300 --> 00:01:55,440
+las primeras van del 101 en adelante
+
+55
+00:01:55,800 --> 00:01:57,840
+en la quinta que era la Perfect collection
+
+56
+00:01:58,250 --> 00:01:59,870
+iban del 501 en adelante
+
+57
+00:02:00,140 --> 00:02:02,140
+La secuencia se vió rota cuando
+
+58
+00:02:02,229 --> 00:02:04,289
+le cedieron los derechos a F2 systems
+
+59
+00:02:04,289 --> 00:02:06,289
+para que hiciera la Extra
+
+60
+00:02:06,580 --> 00:02:08,160
+ellos fueron los creadores de la Technomotion
+
+61
+00:02:08,160 --> 00:02:10,160
+Donde podías jugar con 4 flechas
+
+62
+00:02:10,160 --> 00:02:11,700
+tipo DDR
+
+63
+00:02:12,440 --> 00:02:14,440
+5 tipo pump
+
+64
+00:02:14,569 --> 00:02:16,389
+u 8 tipo Technomotion.
+
+65
+00:02:18,340 --> 00:02:19,440
+Ellos utilizaron canciones
+
+66
+00:02:19,610 --> 00:02:21,450
+que ya tenía licenciadas
+
+67
+00:02:21,450 --> 00:02:23,000
+Y crearon Holiday y Can can
+
+68
+00:02:23,000 --> 00:02:24,720
+que junto con Trash man fueron
+
+69
+00:02:24,720 --> 00:02:26,720
+las 3 canciones más difíciles de la versión
+
+70
+00:02:28,360 --> 00:02:30,140
+Otros tema memorables de aquí
+
+71
+00:02:30,140 --> 00:02:32,020
+fueron Starian, Chicken wing
+
+72
+00:02:32,280 --> 00:02:34,700
+FAEP 1 y Monkey magic
+
+73
+00:02:35,400 --> 00:02:37,740
+Un cambio importantísimos para la jugabilidad
+
+74
+00:02:37,740 --> 00:02:38,680
+nació aquí
+
+75
+00:02:38,680 --> 00:02:40,960
+Me refiero a las long-notes o sostenidos
+
+76
+00:02:41,080 --> 00:02:42,800
+que fueron introducidos aquí
+
+77
+00:02:42,820 --> 00:02:44,880
+junto con el rush y la posibilidad
+
+78
+00:02:44,880 --> 00:02:47,420
+de jugar cualquier nivel en el mismo crédito
+
+79
+00:02:47,800 --> 00:02:49,300
+pues antes si empezabas en Hard
+
+80
+00:02:49,300 --> 00:02:50,720
+todas tenian que ser en Hard.
+
+81
+00:02:50,720 --> 00:02:52,720
+Ahora ya podías cambiar de niveles
+
+82
+00:02:52,720 --> 00:02:53,960
+incluso a dobles.
+
+83
+00:02:56,320 --> 00:02:58,320
+El crazy era llamado extra-experto
+
+84
+00:02:58,320 --> 00:03:00,180
+y por fin se hicieron pasos en doble
+
+85
+00:03:00,180 --> 00:03:01,819
+con una mayor dificultad
+
+86
+00:03:01,819 --> 00:03:02,879
+llamados double extra experto
+
+87
+00:03:03,160 --> 00:03:05,720
+Sin embargo, o los stepmakers
+
+88
+00:03:05,740 --> 00:03:07,240
+no tenían mucha experiencia
+
+89
+00:03:07,240 --> 00:03:09,000
+para hacer dobles rescatables
+
+90
+00:03:09,400 --> 00:03:10,980
+o fueron autogenerados porque
+
+91
+00:03:10,980 --> 00:03:13,400
+solo te pasaban de un lado a a otro
+
+92
+00:03:14,060 --> 00:03:16,520
+y parecian calcas de la versión en crazy
+
+93
+00:03:17,000 --> 00:03:18,760
+la más rescatable era Holiday
+
+94
+00:03:19,540 --> 00:03:21,380
+El disco tenía varios bugs o errores
+
+95
+00:03:21,700 --> 00:03:22,999
+pero un punto a favor de la Extra
+
+96
+00:03:23,000 --> 00:03:25,079
+fue la gran cantidad de skins posibles
+
+97
+00:03:25,079 --> 00:03:27,519
+desde caquitas, ovnis
+
+98
+00:03:27,620 --> 00:03:29,120
+incluso muñecos de nieve.
+
+99
+00:03:29,960 --> 00:03:31,730
+Ésta versión estuvo de venta en Corea
+
+100
+00:03:31,980 --> 00:03:33,760
+Sin embargo sí se llegó a popularizar
+
+101
+00:03:33,760 --> 00:03:35,260
+de éste lado del charco
+
+102
+00:03:36,040 --> 00:03:37,820
+para la Pump it up the Premiere
+
+103
+00:03:37,820 --> 00:03:39,820
+que ya vendía internacionalmente en 2001
+
+104
+00:03:39,989 --> 00:03:41,289
+se tuvieron que cambiar
+
+105
+00:03:41,289 --> 00:03:43,289
+algunos titles y nombres de canciones
+
+106
+00:03:43,289 --> 00:03:45,220
+para que estuvieran en inglés
+y no en coreano.
+
+107
+00:03:46,380 --> 00:03:47,820
+Se creó una versión para Estados Unidos
+
+108
+00:03:47,820 --> 00:03:49,820
+y una para Brasil pero con dificultades
+
+109
+00:03:49,820 --> 00:03:51,840
+super fáciles
+
+110
+00:03:52,080 --> 00:03:53,800
+solo sobresalió Take on me
+
+111
+00:03:54,629 --> 00:03:56,689
+Y poco después sale la Prex de
+
+112
+00:03:56,689 --> 00:03:58,689
+la unión de la Premiere y la Extra
+
+113
+00:03:59,050 --> 00:04:02,190
+con la misma interfaz de la Premiere
+
+114
+00:04:02,190 --> 00:04:03,690
+Aún nos queda un largo camino que
+
+115
+00:04:03,690 --> 00:04:04,870
+recorrer en los videos
+
+116
+00:04:04,870 --> 00:04:06,180
+de la historia de la pump
+
+117
+00:04:06,180 --> 00:04:08,170
+Eso es todo por éste vídeo
+
+118
+00:04:08,170 --> 00:04:10,170
+See ya!.
+
